@@ -1,3 +1,5 @@
 We are creating a file.
 And we are editing now.
 print "hi"
+if a==5:
+	say "google"
